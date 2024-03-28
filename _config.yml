@@ -2,22 +2,18 @@ title: "Roger's Notes"
 description: My personal notes
 author: "Roger Bolsius"
 
-theme: minima
+remote_theme: jekyll/minima
 
 # base_url: /gh-pages-minima-starter
 # repository: jsanz/gh-pages-minima-starter
 
-# Minima social links
-# github_username: jsanz
-# linkedin_username: jsanz
-# rss: rss
 
 # Minima: show excerpts in the frontpage
 # show_excerpts: true
 
 minima:
+  date_format: "%Y-%m-%d"
   skin: auto
-  # date_format: "%Y-%m-%d"
 
 # Minima: custom header links
 # header_pages:
