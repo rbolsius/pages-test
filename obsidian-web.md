@@ -1,5 +1,7 @@
-## GitHub - coddingtonbear/obsidian-web: Connect your web browser with your notes in Obsidian.
-URL: https://github.com/coddingtonbear/obsidian-web
+# GitHub - coddingtonbear/obsidian-web
+
+[coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web)
+is an extension to connect your web browser with your notes in Obsidian.
 
 > ## Quickstart
 > 
@@ -11,7 +13,6 @@ URL: https://github.com/coddingtonbear/obsidian-web
 > 
 > ![popup](https://camo.githubusercontent.com/91caa59e163e31fdc8f24dea96f13abd76707a345b9ed030daf9040e231abb48/687474703a2f2f636f6464696e67746f6e626561722d7075626c69632e73332e616d617a6f6e6177732e636f6d2f6769746875622f6f6273696469616e2d7765622f706f7075702e706e67)
 > 
-
 
 ## Quickstart
 
